@@ -1,0 +1,65 @@
+{
+  "nota": "NO publicado en Buffer. buffer___get_account devolvio HTTP 429 Retry-After 148817 s el 2026-11-19. No reintentar antes de 2026-11-21T02:40:00Z. Tag de afiliado real leido en Drive: michelgonza02-20. Videos verticales 1080x1920, forma de ~3 minutos (el punto 3 del encargo). No son de 90 minutos: un archivo unico de 90 min con planos sin repetir no cabe en GitHub (limite 100 MB) ni en un deploy inline de Vercel.",
+  "organizacion": null,
+  "scheduler_task_id": "01a1f316-2634-70e0-b4ae-1d4f48e9b66d",
+  "videos": [
+    {
+      "id": "ia_arquero",
+      "archivo": "ia_arquero.mp4",
+      "url": "https://raw.githubusercontent.com/graciasdios9999-prog/buffer-videos-20261119/main/ia_arquero.mp4",
+      "canal_objetivo": "IA al Alcance",
+      "servicio_preferido": "youtube",
+      "categoryId": "15",
+      "madeForKids": false,
+      "isAiGenerated": true,
+      "schedulingType": "automatic",
+      "titulo": "2026 El pez que dispara sin salir del agua",
+      "miniatura_3_palabras": "DISPARA SIN SALIR",
+      "voz": "es-MX-DaliaNeural",
+      "duracion_seg": 203.67,
+      "duracion": "3:24",
+      "tema": "pez arquero Toxotes jaculatrix",
+      "descripcion": "¿Un pez puede cazar un insecto que está en el aire sin salir del agua? En 2026 el pez arquero, Toxotes jaculatrix, responde con un chorro. Junta la lengua contra el paladar, forma un tubo y escupe. La luz se dobla en la superficie, así que el blanco no está donde el ojo lo ve: el pez corrige el ángulo. Los jóvenes fallan y ensayan hasta que el tiro se afina. A veces el que dispara no es el que come, porque otros arqueros esperan el chapuzón. El arma desaparece: no queda flecha, ni red, ni veneno, solo una onda en el río. Este video es curiosidad de fauna. No es un manual para manipular animales ni un consejo veterinario.\n\nSi el dato te movió, sígueme, deja like y compártelo con alguien que mire el río y solo vea agua quieta.\n\nComo afiliado de Amazon puedo recibir una comisión si compras por estos enlaces, sin costo extra para ti. En el video no digo precios ni para qué sirve cada objeto: tú lees la ficha del vendedor.\n\n1. Binoculares para observación de aves y fauna: https://www.amazon.com/s?k=binoculares+observacion+aves&tag=michelgonza02-20\n2. Guía de campo de animales: https://www.amazon.com/s?k=guia+de+campo+animales&tag=michelgonza02-20\n3. Cámara de trampeo para fauna: https://www.amazon.com/s?k=camara+trampeo+fauna&tag=michelgonza02-20\n4. Linterna frontal recargable: https://www.amazon.com/s?k=linterna+frontal+recargable&tag=michelgonza02-20\n5. Mochila de senderismo: https://www.amazon.com/s?k=mochila+senderismo&tag=michelgonza02-20\n\n#Shorts #Animales #PezArquero #Fauna #Ciencia #Naturaleza #2026 #SabiasQue #IAAlAlcance\nContenido con voz neural e imágenes de archivo. Generado con IA."
+    },
+    {
+      "id": "fe_higuera",
+      "archivo": "fe_higuera.mp4",
+      "url": "https://raw.githubusercontent.com/graciasdios9999-prog/buffer-videos-20261119/main/fe_higuera.mp4",
+      "canal_objetivo": "Refugio en la Palabra",
+      "servicio_preferido": "youtube",
+      "categoryId": "27",
+      "madeForKids": false,
+      "isAiGenerated": true,
+      "schedulingType": "automatic",
+      "titulo": "2026 La higuera vacía todavía canta",
+      "miniatura_3_palabras": "AUN ASI CANTO",
+      "voz": "es-MX-JorgeNeural",
+      "duracion_seg": 184.17,
+      "duracion": "3:04",
+      "tema": "Habacuc 3 parafraseado, higuera sin fruto, esperanza",
+      "descripcion": "¿Qué haces el día en que la higuera no florece, la vid no da uva y el establo se queda vacío? Habacuc no empezó con una sonrisa de cartel. Empezó con el campo vencido y, aun así, decidió cantar. No porque la cosecha hubiera vuelto, sino porque hay alguien más firme que la higuera. En este video de 2026 hablo con Jesucristo y con Jehová: gracias por no dejarme hablar solo. La promesa es simple y no es un eslogan vacío: quien busca a Dios no se queda vacío. La esperanza no niega el establo. La fe no inventa uvas. Ordena el día: una gratitud antes de la queja, una oración antes del cálculo. La frase bíblica va parafraseada, no es un audiolibro con copyright: aunque la higuera no florezca, hay gozo en el Dios de la salvación.\n\nSi esta palabra te sostuvo, sígueme, deja like y compártela con quien hoy abrió una puerta y no halló lo que pidió.\n\nComo afiliado de Amazon puedo recibir una comisión si compras por estos enlaces, sin costo extra para ti. No digo precios ni para qué es cada objeto. Tú disciernes.\n\n1. Diario de oración: https://www.amazon.com/s?k=diario+de+oracion&tag=michelgonza02-20\n2. Biblia de estudio: https://www.amazon.com/s?k=biblia+de+estudio&tag=michelgonza02-20\n3. Vela para un rato de silencio: https://www.amazon.com/s?k=vela+aromatica&tag=michelgonza02-20\n4. Cuaderno de gratitud: https://www.amazon.com/s?k=cuaderno+de+gratitud&tag=michelgonza02-20\n5. Marcapáginas para la Biblia: https://www.amazon.com/s?k=marcapaginas+biblia&tag=michelgonza02-20\n\n#Fe #Biblia #Esperanza #Dios #Jesucristo #Jehova #2026 #RefugioEnLaPalabra #Oracion\nContenido original de fe, voz neural, imágenes de archivo. Generado con IA. No sustituye a tu comunidad de fe."
+    },
+    {
+      "id": "ig_canela",
+      "archivo": "ig_canela.mp4",
+      "url": "https://raw.githubusercontent.com/graciasdios9999-prog/buffer-videos-20261119/main/ig_canela.mp4",
+      "canal_objetivo": "Instagram si existe entre los canales nombrados; si no, Anatomía del engaño solo si es el canal de ese nombre",
+      "servicio_preferido": "instagram",
+      "categoryId_si_youtube": "27",
+      "instagram": {
+        "type": "reel",
+        "shouldShareToFeed": true,
+        "isAiGenerated": true
+      },
+      "madeForKids": false,
+      "isAiGenerated": true,
+      "titulo": "2026 La canela que arde sin estar en llamas",
+      "miniatura_3_palabras": "NO ERA FUEGO",
+      "voz": "es-CO-SalomeNeural",
+      "duracion_seg": 182.0,
+      "duracion": "3:02",
+      "tema": "cinamaldehido y la lengua; canela, jengibre, curcuma como curiosidad de cocina. No es consejo medico. Sin mencion de Cuba.",
+      "descripcion": "Esa canela en la lengua no está en llamas. El cinamaldehído toca una puerta que también se abre con el calor de verdad, y el cerebro firma una alarma falsa. Por eso la especia pica sin quemar la mesa. El jengibre y la pimienta usan otras llaves, pero el truco se parece: una molécula vegetal conversa con un receptor y tú lo llamas sabor. Las papilas se renuevan. La cúrcuma mancha los dedos y su sabor es terroso; comerla en la cocina no la convierte en tratamiento. Este video de 2026 es curiosidad del cuerpo y de las especias. No es consejo médico, no diagnostica y no te pide que cures nada con una cucharada. No tomes aceites concentrados como si fueran agua. Si algo duele, eso se habla con un profesional.\n\nSi te cambió la forma de mirar el plato, sígueme, deja like y compártelo.\n\nComo afiliado de Amazon puedo recibir una comisión si compras por estos enlaces, sin costo extra para ti. En el video no digo precios ni para qué sirve cada producto. Son alimentos de uso habitual en la cocina, no una receta clínica. Tú lees la ficha.\n\n1. Canela en rama: https://www.amazon.com/s?k=canela+en+rama&tag=michelgonza02-20\n2. Jengibre fresco o en polvo: https://www.amazon.com/s?k=jengibre&tag=michelgonza02-20\n3. Cúrcuma en polvo: https://www.amazon.com/s?k=curcuma+en+polvo&tag=michelgonza02-20\n4. Pimienta negra en grano: https://www.amazon.com/s?k=pimienta+negra+en+grano&tag=michelgonza02-20\n5. Tetera para infusión: https://www.amazon.com/s?k=tetera+infusion&tag=michelgonza02-20\n\n#Cuerpo #Canela #Especias #Curiosidades #SaludCotidiana #2026 #SinConsejoMedico\nVoz neural e imágenes de archivo. Generado con IA. Prohibido interpretar esto como tratamiento."
+    }
+  ]
+}
